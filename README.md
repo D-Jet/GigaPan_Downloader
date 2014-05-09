@@ -12,7 +12,7 @@ his script should be used to only download gigapan tiles that you have copyright
 This Python 2.X script downloads gigapan pictures at their highest resolution.
 
 
-**How to run?**
+#How to run?
 
 `python downloadGigaPan.py <imageid>`
 
@@ -22,7 +22,7 @@ http://www.gigapan.com/gigapans/54825
 
 The <imageid> is 54825
 
-`python downloadGigaPan.py 54825`
+**`python downloadGigaPan.py 54825`**
 
 This will download the image tiles into directory "54825"
 
@@ -33,7 +33,7 @@ User snapshots(tags) locations and descriptions can be found at :
 This software is made available for research and non-commercial use only.
 
 
-**Citation**
+#Citation
 
 Saliency-Assisted Navigation of Very Large Landscape Images
 
