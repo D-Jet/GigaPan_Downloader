@@ -44,7 +44,7 @@ IEEE Transactions on Visualization and Computer Graphics
 17(12), 2011, pp 1737 - 1746.
 
 
-`@article{ip2011saliency,
+    @article{ip2011saliency,
 
       title={Saliency-assisted navigation of very large landscape images},
 
@@ -60,5 +60,5 @@ IEEE Transactions on Visualization and Computer Graphics
 
       year={2011},
 
-    }`
+    }
 
