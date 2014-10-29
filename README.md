@@ -9,7 +9,7 @@ New BSD License
 
 his script should be used to only download gigapan tiles that you have copyright permissions to use. Doing otherwise is a violation of the Terms of Service of Gigapan, Inc. and is expressly prohibited.
 
-This Python 2.X script downloads gigapan pictures at their highest resolution.
+This Python 3.X adaptation of GigaPan_Downloader script downloads gigapan pictures at their highest resolution.
 
 
 #How to run?
